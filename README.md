@@ -429,7 +429,9 @@ Dans cette petite implémentation de la gestion d'état dans React avec Redux, n
 * les ***reducers***, les fonctions qui transforment l'état de l'application,
 * les composants React qui composent l'interface et permettent d'activer les actions via les composants containers.
 
-Dans le paradigme Redux, la gestion d'état est simplifiée en puisque tous les composants se basent sur un même état commun global. Toute modification de l'état est forcément traçable vers une action avec un certain type et des paramètres. Ceci permet d'augmenter les possiblité de débuggage pas à pas.
+Dans le paradigme Redux, la gestion d'état est simplifiée en puisque tous les composants se basent sur un même état commun global. Toute
+ modification de l'état est forcément traçable vers une action avec un certain type et des paramètres. Ceci permet d'augmenter la maintenabilité et
+  les possiblités de débuggage pas à pas.
 
 
 
