@@ -441,5 +441,7 @@ Le code de ce tutoriel: <https://github.com/jckbrkr/redux-tutorial>
 
 La documentation de Redux: https://redux.js.org/
 
+Exemple Todo List: https://redux.js.org/basics/example
+
 Wikipédia: https://fr.wikipedia.org/wiki/Redux
 
